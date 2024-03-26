@@ -4,7 +4,7 @@
 ## Project: **Predict the price of a laptop based on its description**
 Author: **Le Ngoc Thien** [@thienkaito](https://www.github.com/thienkaito)
 
-![banner](banner.png)
+![banner](Images/banner.png)
 
 ## 1. About Project:
 [Technical assigment](0_Business_Understanding/Technical_assigment.md)  (work in progress)
