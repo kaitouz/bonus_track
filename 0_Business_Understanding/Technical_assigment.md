@@ -196,5 +196,8 @@ Dependencies on specific library versions will be documented to ensure consisten
 # 17. Appendices
 
 https://core.telegram.org/bots/api
+
 https://python-telegram-bot.org/
+
 https://pandas.pydata.org/docs/
+

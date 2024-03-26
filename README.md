@@ -7,11 +7,13 @@ Author: **Le Ngoc Thien** [@thienkaito](https://www.github.com/thienkaito)
 ![banner](banner.png)
 
 ## 1. About Project:
-[Technical assigment](0_Business_Understanding/Technical_assigment.md)
+[Technical assigment](0_Business_Understanding/Technical_assigment.md)  (work in progress)
 
 ---
 
-## 2. Data Collection:
+## 2. Data Collection: 
+
+(work in progress)
 
 The data for this project was collected from various sources including online marketplaces, e-commerce websites, and tech forums.
 
