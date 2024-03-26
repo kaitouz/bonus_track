@@ -1,13 +1,23 @@
 # bonus_track
-Предсказание цены ноутбука по его описанию
 
 
+## Project: **Predict the price of a laptop based on its description**
+Author: **Le Ngoc Thien** [@thienkaito](https://www.github.com/thienkaito)
 
-# Data scrapper:
-- Ly do khong scrapp tren yandex_market : do capcha
+![banner](banner.png)
 
-The pain points of scraping Yandex
+## 1. About Project:
+[Technical assigment](0_Business_Understanding/Technical_assigment.md)
 
-One of the key challenges of scraping Yandex is its CAPTCHA protection. See the screenshot below:
+---
 
-![alt text](image.png)
+## 2. Data Collection:
+
+The data for this project was collected from various sources including online marketplaces, e-commerce websites, and tech forums.
+
+- Yandex Market:
+- Mvideo:
+- Amazon:
+
+
+The dataset comprises laptop descriptions along with their corresponding prices. Data collection involved web scraping techniques and manual data gathering from publicly available sources. Special attention was paid to ensure the quality and accuracy of the data to enhance the performance of the predictive model.
